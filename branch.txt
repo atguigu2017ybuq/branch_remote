@@ -2,3 +2,5 @@ edit by master branch
 edit by hot_fix
 edit by new_pay
 new_pay edit
+myPay edit
+>>>>>>> 494c06048e65d34c5c81002bf155551afec71c27
